@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap');
+
+
+body{
+    background-color: rgb(61, 60, 59);
+    font-family: 'Kaisei Tokumin', serif;
+}
+
+.br-5{
+    border-radius: 5px;
+}
